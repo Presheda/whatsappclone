@@ -45,6 +45,7 @@ class _ChatScreenState extends State<ChatScreen> {
                     style: TextStyle(color:Colors.grey, fontSize: 14.0),
                   ),
                 ),
+                
               )
             ],
           );
